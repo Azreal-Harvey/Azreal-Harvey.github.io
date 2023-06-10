@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>莫论人非的博客</title>
+  <icon>https://azreal-harvey.github.io/icon.png</icon>
+  <subtitle>一个随心所欲的programer</subtitle>
+  <link href="https://azreal-harvey.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://azreal-harvey.github.io/"/>
+  <updated>2023-06-10T10:03:12.039Z</updated>
+  <id>https://azreal-harvey.github.io/</id>
+  
+  <author>
+    <name>莫论人非</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>YOLO</title>
+    <link href="https://azreal-harvey.github.io/2023/06/10/YOLO/"/>
+    <id>https://azreal-harvey.github.io/2023/06/10/YOLO/</id>
+    <published>2023-06-10T09:53:06.000Z</published>
+    <updated>2023-06-10T10:03:12.039Z</updated>
+    
+    
+    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
+    
+    
+    
+    
+    <category term="YOLO" scheme="https://azreal-harvey.github.io/tags/YOLO/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>8086第三次作业</title>
+    <link href="https://azreal-harvey.github.io/2023/06/07/8086%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A/"/>
+    <id>https://azreal-harvey.github.io/2023/06/07/8086%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A/</id>
+    <published>2023-06-07T08:53:55.000Z</published>
+    <updated>2023-06-07T08:58:31.474Z</updated>
+    
+    
+    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
+    
+    
+    
+    
+    <category term="pasco" scheme="https://azreal-harvey.github.io/tags/pasco/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Codeforces Round 871总结</title>
+    <link href="https://azreal-harvey.github.io/2023/06/03/codeforces-round-871%E6%80%BB%E7%BB%93/"/>
+    <id>https://azreal-harvey.github.io/2023/06/03/codeforces-round-871%E6%80%BB%E7%BB%93/</id>
+    <published>2023-06-03T02:09:17.000Z</published>
+    <updated>2023-06-03T02:38:50.774Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;这是最近vp的一次codeforces round 871的题解&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="题解" scheme="https://azreal-harvey.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试推送</title>
+    <link href="https://azreal-harvey.github.io/2023/05/31/%E6%B5%8B%E8%AF%95%E6%8E%A8%E9%80%81/"/>
+    <id>https://azreal-harvey.github.io/2023/05/31/%E6%B5%8B%E8%AF%95%E6%8E%A8%E9%80%81/</id>
+    <published>2023-05-31T03:13:00.000Z</published>
+    <updated>2023-05-31T03:21:23.617Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;这是一篇测试推送的文章&lt;/p&gt;
+&lt;p&gt;1111&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>网站使用指南</title>
+    <link href="https://azreal-harvey.github.io/2023/05/31/%E7%BD%91%E7%AB%99%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
+    <id>https://azreal-harvey.github.io/2023/05/31/%E7%BD%91%E7%AB%99%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</id>
+    <published>2023-05-30T16:10:22.000Z</published>
+    <updated>2023-05-30T16:23:22.003Z</updated>
+    
+    
+    <summary type="html">这里教你如何使用本网站</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>8086第二次作业</title>
+    <link href="https://azreal-harvey.github.io/2023/05/30/8086%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A/"/>
+    <id>https://azreal-harvey.github.io/2023/05/30/8086%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A/</id>
+    <published>2023-05-30T10:22:09.000Z</published>
+    <updated>2023-05-31T07:14:19.684Z</updated>
+    
+    
+    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
+    
+    
+    
+    
+    <category term="pasco" scheme="https://azreal-harvey.github.io/tags/pasco/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>8086第五章总结</title>
+    <link href="https://azreal-harvey.github.io/2023/05/29/8086%E7%AC%AC%E4%BA%94%E7%AB%A0%E6%80%BB%E7%BB%93/"/>
+    <id>https://azreal-harvey.github.io/2023/05/29/8086%E7%AC%AC%E4%BA%94%E7%AB%A0%E6%80%BB%E7%BB%93/</id>
+    <published>2023-05-29T11:17:45.000Z</published>
+    <updated>2023-05-29T11:32:45.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;8086第五章总结&lt;/h1&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>8086第一次作业</title>
+    <link href="https://azreal-harvey.github.io/2023/05/29/8086%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A/"/>
+    <id>https://azreal-harvey.github.io/2023/05/29/8086%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A/</id>
+    <published>2023-05-29T02:26:38.000Z</published>
+    <updated>2023-05-29T02:56:03.539Z</updated>
+    
+    
+    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
+    
+    
+    
+    
+    <category term="pasco" scheme="https://azreal-harvey.github.io/tags/pasco/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Pasco 议程记录</title>
+    <link href="https://azreal-harvey.github.io/2023/05/27/pasco-%E8%AE%AE%E7%A8%8B%E8%AE%B0%E5%BD%95/"/>
+    <id>https://azreal-harvey.github.io/2023/05/27/pasco-%E8%AE%AE%E7%A8%8B%E8%AE%B0%E5%BD%95/</id>
+    <published>2023-05-26T16:04:42.000Z</published>
+    <updated>2023-05-29T02:25:57.202Z</updated>
+    
+    
+    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
+    
+    
+    
+    
+    <category term="pasco" scheme="https://azreal-harvey.github.io/tags/pasco/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网站运维备忘录</title>
+    <link href="https://azreal-harvey.github.io/2023/05/26/%E7%BD%91%E7%AB%99%E8%BF%90%E7%BB%B4%E5%A4%87%E5%BF%98%E5%BD%95/"/>
+    <id>https://azreal-harvey.github.io/2023/05/26/%E7%BD%91%E7%AB%99%E8%BF%90%E7%BB%B4%E5%A4%87%E5%BF%98%E5%BD%95/</id>
+    <published>2023-05-26T08:44:07.000Z</published>
+    <updated>2023-05-30T15:26:11.597Z</updated>
+    
+    
+    <summary type="html">本文用于记录网站运维过程中的一些备忘录，以便日后查阅。</summary>
+    
+    
+    
+    
+    <category term="secret" scheme="https://azreal-harvey.github.io/tags/secret/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>加密测试</title>
+    <link href="https://azreal-harvey.github.io/2023/05/26/%E5%8A%A0%E5%AF%86%E6%B5%8B%E8%AF%95/"/>
+    <id>https://azreal-harvey.github.io/2023/05/26/%E5%8A%A0%E5%AF%86%E6%B5%8B%E8%AF%95/</id>
+    <published>2023-05-26T07:54:00.000Z</published>
+    <updated>2023-05-26T15:33:07.126Z</updated>
+    
+    
+    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
+    
+    
+    
+    
+    <category term="超级棒棒糖" scheme="https://azreal-harvey.github.io/tags/%E8%B6%85%E7%BA%A7%E6%A3%92%E6%A3%92%E7%B3%96/"/>
+    
+    <category term="secret" scheme="https://azreal-harvey.github.io/tags/secret/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>更新日志</title>
+    <link href="https://azreal-harvey.github.io/2023/05/24/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    <id>https://azreal-harvey.github.io/2023/05/24/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</id>
+    <published>2023-05-24T09:11:15.299Z</published>
+    <updated>2023-05-26T15:20:31.307Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;以后的更新不会在这里显示了，直接在&lt;a href=&quot;https://blog.azreal-harvey.cn/log/&quot;&gt;日志&lt;/a&gt;中查看&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>随便写点</title>
+    <link href="https://azreal-harvey.github.io/2023/05/24/%E9%9A%8F%E4%BE%BF%E5%86%99%E7%82%B9/"/>
+    <id>https://azreal-harvey.github.io/2023/05/24/%E9%9A%8F%E4%BE%BF%E5%86%99%E7%82%B9/</id>
+    <published>2023-05-23T16:35:29.116Z</published>
+    <updated>2023-05-23T16:37:05.825Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;好累，明天再写吧。配置文件居然有&lt;code&gt;1000&lt;/code&gt;行！&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>个人介绍</title>
+    <link href="https://azreal-harvey.github.io/2023/05/23/%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D/"/>
+    <id>https://azreal-harvey.github.io/2023/05/23/%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D/</id>
+    <published>2023-05-23T05:22:53.000Z</published>
+    <updated>2023-05-31T07:37:05.698Z</updated>
+    
+    
+    <summary type="html">关于作者的一切</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
