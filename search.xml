@@ -289,7 +289,7 @@
     <title>加密测试</title>
     <url>/2023/05/26/%E5%8A%A0%E5%AF%86%E6%B5%8B%E8%AF%95/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="201cb4ac071a5b5651cda093cf89daab7e40f5b91f62915b952c971bbf823991">be88927f76a25cb8d9e94783529faa3191d18bdcf67834cf8f26649fc4d88f30612a74d762c3401aa291ecd790caa84de6abc268b4a9bd3a112579e48d1f0e5dce66b891a70bb90565fefc03671b64067d7d7d9243e7671e65d65d682da7584a</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="94af80b3b765cd96483d87147ad021433dfc98ff34a0140486b92851bbc36c50">0c5db7dfb6de77b2e90f987a453360f237fd120ae0867ecbd45d0090396f8171c881665fcca0af93a51c0c239050e4de70d163fb0dd014212f9c4d4968d882d4c22294ef9d2d5ca496b74b8177996b482a989d689d14b07ae4f540a99d22b156</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-xray">
       <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">
@@ -305,8 +305,8 @@
 </div>
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <tags>
-        <tag>secret</tag>
         <tag>超级棒棒糖</tag>
+        <tag>secret</tag>
       </tags>
   </entry>
   <entry>
